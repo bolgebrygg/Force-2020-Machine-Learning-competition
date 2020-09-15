@@ -1,4 +1,4 @@
-This is where we will share the results, code  and the data for the Force 2020 Machine learning competition after the completion of the competition in october 2020.
+This is where we will share the results, code  and the data for the Force 2020 Machine learning competition after the completion of the competition in October 2020.
 
 
 For citation please use: Bormann P., Aursand P., Dilib F., Dischington P., Manral S. 2020. FORCE Machine Learning Competition. https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition

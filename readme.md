@@ -6,4 +6,3 @@ For citation please use: Bormann P., Aursand P., Dilib F., Dischington P., Manra
 **Link to contest https://www.npd.no/en/force/events/machine-learning-contest-with-wells-and-seismic/**
 
 ![Sponsors](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/blob/master/bottom-sponsor-6.jpg)
-<img src="https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/blob/master/bottom-sponsor-6.jpg" alt="sponsors" width="500" height="333">

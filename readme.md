@@ -8,25 +8,26 @@ For citation please use: Bormann P., Aursand P., Dilib F., Dischington P., Manra
 
 ## Lithology prediction
 
-### Results (pre-trained models)
+The objective of the lithology prediction competition was to correctly predict lithology labels for provided well logs, provided NPD lithostratigraphy and well X, Y position.
 
-| Team | Leaderboard score | Leaderboard rank | Final test score | Final rank |
-|---|---|---|---|---|
-| GIR Team | -0.5037 | 11 | -0.4792 | 1 |
-| Lab.ICA-Team / Smith A. | -0.4943 | 6 | -0.4954 | 2 |
-| H3G (Haoyuan Zhang, Harry Brandsen, Gregory Barrere, Helena Nandi Formentin) | -0.509 | 17 | -0.5045 | 3 |
-| ISPL Team | -0.4885 | 2 | -0.5084 | 4 |
-| Jiampiers C. | -0.5014 | 9 | -0.5087 | 5 |
-| José Bermúdez | -0.5052 | 14 | -0.5091 | 6 |
-| Bohdan Pavlyshenko | -0.5112 | 22 | -0.5171 | 7 |
-| Jeremy Zhao | -0.5264 | 31 | -0.5173 | 8 |
-| David P. | -0.4775 | 1 | -0.5256 | 9 |
-| Dapo Awolayo | -0.5121 | 25 | -0.9441 | 10 |
+The competition was scored using a penalty matrix. Some label mistakes are penalized more than others, see starter notebook and penalty matrix for details.
 
-### Results (models trained with test data features)
+All datasets and the starter notebook can be found under ´lithology_competition/data'
+
+### Results of final scoring
 
 | Team | Leaderboard score | Leaderboard rank | Final test score | Final rank |
 |---|---|---|---|---|
 | Olawale Ibrahim | -0.5118 | 24 | -0.4690 | 1 |
-| Campbell Hutcheson | -0.505 | 13 | -0.5221 | 2 |
-| SoftServe Team | -0.4936 | 3 | -0.5263 | 3 |
+| GIR Team | -0.5037 | 11 | -0.4792 | 2 |
+| Lab.ICA-Team / Smith A. | -0.4943 | 6 | -0.4954 | 3 |
+| H3G (Haoyuan Zhang, Harry Brandsen, Gregory Barrere, Helena Nandi Formentin) | -0.509 | 17 | -0.5045 | 4 |
+| ISPL Team | -0.4885 | 2 | -0.5084 | 5 |
+| Jiampiers C. | -0.5014 | 9 | -0.5087 | 6 |
+| José Bermúdez | -0.5052 | 14 | -0.5091 | 7 |
+| Bohdan Pavlyshenko | -0.5112 | 22 | -0.5171 | 8 |
+| Jeremy Zhao | -0.5264 | 31 | -0.5173 | 9 |
+| Campbell Hutcheson | -0.505 | 13 | -0.5221 | 10 |
+| David P. | -0.4775 | 1 | -0.5256 | 11 |
+| SoftServe Team | -0.4936 | 3 | -0.5263 | 12 |
+| Dapo Awolayo | -0.5121 | 25 | -0.9441 | 13 |

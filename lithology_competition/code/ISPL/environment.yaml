@@ -1,0 +1,14 @@
+name: force-ispl
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - scikit-learn=0.23
+  - scipy
+  - numpy=1.19
+  - tqdm
+  - pandas
+  - requests
+  - pip:
+      - xgboost==1.2

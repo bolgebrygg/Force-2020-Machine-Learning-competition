@@ -12,9 +12,11 @@ The objective of the lithology prediction competition was to correctly predict l
 
 The competition was scored using a penalty matrix. Some label mistakes are penalized more than others, see starter notebook and penalty matrix for details.
 
-All datasets and the starter notebook can be found under ´lithology_competition/data'
+All datasets used in the competition and the starter notebook can be found under `lithology_competition/data`
 
 ### Results of final scoring
+
+A total of 329 teams signed up for the competition and 148 teams submitted predictions on the open test dataset to enter the competition leaderboard. At the end of the competition the top 30 teams in the leaderboard were invited to submit their pre-trained models for scoring on a hidden dataset. Of these teams 13 submitted code that was easily runnable by the organizers, giving the final scores below.  
 
 | Team | Leaderboard score | Leaderboard rank | Final test score | Final rank |
 |---|---|---|---|---|

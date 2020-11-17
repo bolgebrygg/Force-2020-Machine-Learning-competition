@@ -19,6 +19,12 @@ A geological summary write up of the competition can be found here: https://docs
 
 A slidepack comparing the results can be found here: https://drive.google.com/file/d/1r0k4MU22QmhsxgZ7BJZ8sYveDRQwJlne/view?usp=sharing <br/>
 
-All the submited scored blind cubes and the samples of the training data can be accesssed here: https://drive.google.com/drive/folders/1Hu4VJN9xLOWixSMdf2xN6fRk0zmOz-1J?usp=sharing<br/>
+All the submited scored blind cubes and the samples of the training data can be accesssed here: https://drive.google.com/drive/folders/1Hu4VJN9xLOWixSMdf2xN6fRk0zmOz-1J?usp=sharing <br/><br/>
 
+![SSparveon 1](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/blob/master/fault_mapping_competition/images/sparv1.jpg)
+![SSparveon 1](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/blob/master/fault_mapping_competition/images/equi1.jpg)
+![SSparveon 1](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/blob/master/fault_mapping_competition/images/wood1.jpg)
+![SSparveon 1](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/blob/master/fault_mapping_competition/images/sparv2.jpg)
+![SSparveon 1](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/blob/master/fault_mapping_competition/images/equi2.jpg)
+![SSparveon 1](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/blob/master/fault_mapping_competition/images/wood2.jpg)
 

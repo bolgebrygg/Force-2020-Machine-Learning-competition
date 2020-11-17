@@ -14,12 +14,14 @@ The competition was scored using a penalty matrix. Some label mistakes are penal
 
 All datasets used in the competition and the starter notebook can be found under `lithology_competition/data`
 
+Petrel ready files and standard  well log las files can be found here along with a host of other free geosience subsurface data (https://drive.google.com/drive/folders/0B7brcf-eGK8CRUhfRW9rSG91bW8)
+
 ### Results of final scoring
 
 A total of 329 teams signed up for the competition and 148 teams submitted predictions on the open test dataset to enter the competition leaderboard. At the end of the competition the top 30 teams in the leaderboard were invited to submit their pre-trained models for scoring on a hidden dataset. Of these teams 13 submitted code that was easily runnable by the organizers, giving the final scores below.  
 
-### Links to a description of the results
-Geological and organisational summary of the results (https://docs.google.com/document/d/13XAftsBVHIm01ZN0lP56Q4hZ9hgdYR1G_6KeV2DdzOA/edit?usp=sharing)
+### Description and analysis of the results
+Geological and organisational summary of the results (https://docs.google.com/document/d/13XAftsBVHIm01ZN0lP56Q4hZ9hgdYR1G_6KeV2DdzOA/edit?usp=sharing) <br/>
 Technical sumary of the results (https://docs.google.com/document/d/1cQc9zzQJIeEC4JC8y-6hvVPDarflpb9pjWNIrQcWyWg/edit)
 
 | Team | Leaderboard score | Leaderboard rank | Final test score | Final rank |
@@ -37,3 +39,8 @@ Technical sumary of the results (https://docs.google.com/document/d/1cQc9zzQJIeE
 | David P. | -0.4775 | 1 | -0.5256 | 11 |
 | SoftServe Team | -0.4936 | 3 | -0.5263 | 12 |
 | Dapo Awolayo | -0.5121 | 25 | -0.9441 | 13 |
+
+
+## Mapping faults on seismic 
+
+While 79 teams downloaded only ssss write late

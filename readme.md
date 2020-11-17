@@ -21,8 +21,8 @@ Petrel ready files and standard  well log las files can be found here along with
 A total of 329 teams signed up for the competition and 148 teams submitted predictions on the open test dataset to enter the competition leaderboard. At the end of the competition the top 30 teams in the leaderboard were invited to submit their pre-trained models for scoring on a hidden dataset. Of these teams 13 submitted code that was easily runnable by the organizers, giving the final scores below.  
 
 ### Description and analysis of the results
-Geological and organisational summary of the results (https://docs.google.com/document/d/13XAftsBVHIm01ZN0lP56Q4hZ9hgdYR1G_6KeV2DdzOA/edit?usp=sharing) <br/>
-Technical sumary of the results (https://docs.google.com/document/d/1cQc9zzQJIeEC4JC8y-6hvVPDarflpb9pjWNIrQcWyWg/edit)
+**Writeup geological and organisational summary of the results** (https://docs.google.com/document/d/13XAftsBVHIm01ZN0lP56Q4hZ9hgdYR1G_6KeV2DdzOA/edit?usp=sharing) <br/>
+**Writeup Technical summary of the results** (https://docs.google.com/document/d/1cQc9zzQJIeEC4JC8y-6hvVPDarflpb9pjWNIrQcWyWg/edit)
 
 | Team | Leaderboard score | Leaderboard rank | Final test score | Final rank |
 |---|---|---|---|---|

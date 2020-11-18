@@ -8,7 +8,7 @@ All submited scores cubes and input cubes can also be found here: **https://driv
 
 **Link to contest https://www.npd.no/en/force/events/machine-learning-contest-with-wells-and-seismic/**
 
-![Sponsors](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/blob/master/bottom-sponsor-6.jpg)
+
 
 #
 
@@ -30,4 +30,6 @@ All the submited scored blind cubes and the samples of the training data can be 
 ![SSparveon 1](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/blob/master/fault_mapping_competition/images/sparv2.jpg)
 ![SSparveon 1](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/blob/master/fault_mapping_competition/images/equi2.jpg)
 ![SSparveon 1](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/blob/master/fault_mapping_competition/images/wood2.jpg)
+
+![Sponsors](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/blob/master/bottom-sponsor-6.jpg)
 

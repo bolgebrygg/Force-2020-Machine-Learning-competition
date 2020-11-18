@@ -3,7 +3,7 @@
 
 For citation please use: Bormann P., Aursand P., Dilib F., Dischington P., Manral S. 2020. FORCE Machine Learning Competition. https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition
 
-All data, models, ananlysis, codes and weight can also be found here: **https://drive.google.com/drive/folders/0B7brcf-eGK8CRUhfRW9rSG91bW8?usp=sharing in the folder: Force 2020 Fault identification competition
+All submited scores cubes and input cubes can also be found here: **https://drive.google.com/drive/folders/0B7brcf-eGK8CRUhfRW9rSG91bW8?usp=sharing in the folder: Force 2020 Fault identification competition
 
 
 **Link to contest https://www.npd.no/en/force/events/machine-learning-contest-with-wells-and-seismic/**

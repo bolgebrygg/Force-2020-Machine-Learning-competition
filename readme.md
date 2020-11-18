@@ -14,7 +14,7 @@ The competition was scored using a penalty matrix. Some label mistakes are penal
 
 All datasets used in the competition and the starter notebook can be found under `lithology_competition/data`
 
-Petrel ready files and standard  well log las files can be found here along with a host of other free geosience subsurface data (https://drive.google.com/drive/folders/0B7brcf-eGK8CRUhfRW9rSG91bW8)
+**Petrel ready files and standard well log las files, all csv file data, predictions and submited modeles and weights** can also be found here along with a host of other free geosience subsurface data. The folder is called **FORCE 2020 lithofacies prediction from well logs competition** (https://drive.google.com/drive/folders/0B7brcf-eGK8CRUhfRW9rSG91bW8) 
 
 ### Results of final scoring
 

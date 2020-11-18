@@ -43,7 +43,7 @@ A total of 329 teams signed up for the competition and 148 teams submitted predi
 
 ## Mapping faults on seismic FORCE 2020 competition
 
-A total of 80 teams signed up for the competition but only 5 submitted a valid scored fault cube in the end. We were a bit surprised by the low rate of submissions. It is most liley explained by the fact that the seismic dataset was not one of the shining examples where ML fault models perform wonderfulle but more of a standard seismic cube with some migration issues.
+A total of 80 teams signed up for the competition but only 5 submitted a valid scored fault cube in the end. We were a bit surprised by the low rate of submissions. It is most liley explained by the fact that the seismic dataset was not one of the shining examples where ML fault models perform wonderfully but more of a standard seismic cube with some migration issues.
 
 **Sparveon won the competition followed by Equinor and Woodside**
 

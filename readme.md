@@ -22,7 +22,6 @@ A total of 329 teams signed up for the competition and 148 teams submitted predi
 
 ### Description and analysis of the results
 **Writeup geological and organisational summary of the results** (https://docs.google.com/document/d/13XAftsBVHIm01ZN0lP56Q4hZ9hgdYR1G_6KeV2DdzOA/edit?usp=sharing) <br/>
-**Writeup Technical summary of the results** (https://docs.google.com/document/d/1cQc9zzQJIeEC4JC8y-6hvVPDarflpb9pjWNIrQcWyWg/edit)
 
 | Team | Leaderboard score | Leaderboard rank | Final test score | Final rank |
 |---|---|---|---|---|

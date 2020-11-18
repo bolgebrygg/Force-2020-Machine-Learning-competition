@@ -52,3 +52,11 @@ A slidepack comparing the results can be found here: https://drive.google.com/fi
 All the submited scored blind cubes and the samples of the training data can be accesssed here: https://drive.google.com/drive/folders/1Hu4VJN9xLOWixSMdf2xN6fRk0zmOz-1J?usp=sharing<br/>
 
 
+![c1](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/blob/master/lithology_competition/images/wellslogs%201%20.png)
+![c1](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/blob/master/lithology_competition/images/wellslogs%202%20.png)
+
+![SSparveon 1](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/blob/master/fault_mapping_competition/images/sparv1.jpg)
+![SSparveon 1](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/blob/master/fault_mapping_competition/images/equi1.jpg)
+![SSparveon 1](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/blob/master/fault_mapping_competition/images/wood1.jpg)
+
+

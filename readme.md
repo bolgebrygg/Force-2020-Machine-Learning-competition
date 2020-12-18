@@ -2,6 +2,9 @@
 
 For citation please use: Bormann P., Aursand P., Dilib F., Dischington P., Manral S. 2020. FORCE Machine Learning Competition. https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4351156.svg)](https://doi.org/10.5281/zenodo.4351156)
+
 **Link to contest https://www.npd.no/en/force/events/machine-learning-contest-with-wells-and-seismic/**
 
 ![Sponsors](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/blob/master/bottom-sponsor-6.jpg)

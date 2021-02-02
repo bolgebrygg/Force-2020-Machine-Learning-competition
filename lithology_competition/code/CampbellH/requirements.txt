@@ -2,7 +2,7 @@ argon2-cffi==20.1.0
 async-generator==1.10
 attrs==20.2.0
 backcall==0.2.0
-bleach==3.2.1
+bleach==3.3.0
 blis==0.4.1
 catalogue==1.0.0
 certifi==2020.6.20

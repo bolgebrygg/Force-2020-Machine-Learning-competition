@@ -161,7 +161,7 @@ prometheus-client==0.7.1
 prompt-toolkit==3.0.5
 protobuf==3.12.3
 psutil==5.7.0
-py==1.8.1
+py==1.10.0
 pyaml==20.4.0
 pycodestyle==2.5.0
 pycosat==0.6.3

@@ -1,0 +1,20 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: Bormann
+    given-names: Peter
+  -
+    family-names: Aursand
+    given-names: Peder
+  -
+    family-names: Dilib
+    given-names: Fahad
+cff-version: "1.1.0"
+date-released: 2020-11-18
+keywords: 
+  - "FORCE Machine Learning Competition"
+message: "If you use this data, software or report, please cite it using these metadata."
+repository-code: "https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition"
+title: "FORCE Machine Learning Competition"
+...

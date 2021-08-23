@@ -62,7 +62,7 @@ json5==0.9.5
 jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
 jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
 jupyter-core==4.6.3
-jupyterlab==2.1.5
+jupyterlab==2.2.10
 jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
 Keras==2.3.1
 Keras-Applications==1.0.8

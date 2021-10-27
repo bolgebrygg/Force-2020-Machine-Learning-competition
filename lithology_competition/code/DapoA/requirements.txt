@@ -46,7 +46,7 @@ cryptography==2.9.2
 cycler==0.10.0
 Cython==0.29.17
 cytoolz==0.10.1
-dask==2.17.2
+dask==2021.10.0
 decorator==4.4.2
 defusedxml==0.6.0
 diff-match-patch==20181111

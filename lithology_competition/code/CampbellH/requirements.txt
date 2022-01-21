@@ -19,7 +19,7 @@ fastprogress==1.0.0
 future==0.18.2
 idna==2.10
 ipykernel==5.3.4
-ipython==7.18.1
+ipython==7.31.1
 ipython-genutils==0.2.0
 ipywidgets==7.5.1
 jedi==0.17.2

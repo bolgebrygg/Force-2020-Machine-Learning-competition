@@ -5,7 +5,7 @@ decorator==4.4.2
 future==0.18.2
 hyperopt==0.2.5
 ipykernel==5.3.4
-ipython==7.18.1
+ipython==7.31.1
 ipython-genutils==0.2.0
 jedi==0.17.2
 joblib==0.17.0

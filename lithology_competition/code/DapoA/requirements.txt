@@ -50,7 +50,7 @@ dask==2.17.2
 decorator==4.4.2
 defusedxml==0.6.0
 diff-match-patch==20181111
-distributed==2.17.0
+distributed==2021.10.0
 dlisio==0.2.3
 docutils==0.16
 entrypoints==0.3

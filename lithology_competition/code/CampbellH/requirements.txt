@@ -35,7 +35,7 @@ kiwisolver==1.2.0
 lab==6.2
 MarkupSafe==1.1.1
 matplotlib==3.3.2
-mistune==0.8.4
+mistune==2.0.3
 murmurhash==1.0.2
 nbclient==0.5.1
 nbconvert==6.0.7

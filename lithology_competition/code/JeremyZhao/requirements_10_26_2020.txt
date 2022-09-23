@@ -107,7 +107,7 @@ plotly==4.10.0
 plotnine @ file:///home/conda/feedstock_root/build_artifacts/plotnine_1591386554612/work
 prometheus-client==0.8.0
 prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
-protobuf==3.13.0
+protobuf==3.18.3
 psutil @ file:///C:/ci/psutil_1598352273540/work
 pycosat==0.6.3
 pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work

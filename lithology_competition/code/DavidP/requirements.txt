@@ -1,7 +1,7 @@
 # Tested on Python 3.7.4
 numpy==1.17.4
 pandas==1.1.2
-joblib==0.14.0
+joblib==1.2.0
 scipy==1.4.1
 scikit-learn==0.23.1
 category_encoders==2.2.2

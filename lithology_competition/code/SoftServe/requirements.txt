@@ -8,7 +8,7 @@ ipykernel==5.3.4
 ipython==7.18.1
 ipython-genutils==0.2.0
 jedi==0.17.2
-joblib==0.17.0
+joblib==1.2.0
 jupyter-client==6.1.7
 jupyter-core==4.6.3
 lightgbm==3.0.0

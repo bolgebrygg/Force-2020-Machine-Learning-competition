@@ -1,5 +1,5 @@
 xgboost==1.2.1
-joblib==0.14.1
+joblib==1.2.0
 colorama==0.4.3
 catboost==0.24.1
 pandas==1.0.1

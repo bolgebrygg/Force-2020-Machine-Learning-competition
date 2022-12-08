@@ -13,7 +13,7 @@ beautifulsoup4 @ file:///tmp/build/80754af9/beautifulsoup4_1601924105527/work
 bleach @ file:///tmp/build/80754af9/bleach_1600439572647/work
 bokeh @ file:///C:/ci/bokeh_1598885504939/work
 brotlipy==0.7.0
-certifi==2020.6.20
+certifi==2022.12.7
 cffi @ file:///C:/ci/cffi_1600699250966/work
 chardet==3.0.4
 click==7.1.2
